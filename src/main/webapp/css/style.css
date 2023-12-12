@@ -1,0 +1,14 @@
+.snav{background: #053131;}
+.whitetext{color: white;}
+.item:hover{background: #053131;}
+.item{background: #0a6464;}
+.hrefitem:hover{color: white;}
+.hrefitem{color: white;}
+
+.bodys {
+    margin: 0;
+    color: #fff;
+    min-height: 100%;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+}
